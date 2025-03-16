@@ -4,3 +4,11 @@ Two tutorials that show how to parse python code using `tree-sitter`. Based on t
 
 - [Codex Parsing Tutorial 1: Walk the tree](./docs/tutorial_one.md)
 - [Codex Parsing Tutorial 2: Query the tree](./docs/tutorial_two.md)
+
+## Setup
+
+```
+uv sync
+uv run python tree_sitter_example_simple.py
+```
+
